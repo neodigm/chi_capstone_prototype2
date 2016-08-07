@@ -60,7 +60,7 @@ View Signs
 		function removeMobile(){
 			$("body.mobile").removeClass("mobile");
 		}
-		$("[data-reactid='.0.2.1.0.$=10.0.0.$174453521.2.$581151637']").unbind();
+		//$("[data-reactid='.0.2.1.0.$=10.0.0.$174453521.2.$581151637']").unbind();
 	</script>
 	<style>
 		.btn-signage--div > p {
@@ -69,16 +69,39 @@ View Signs
 			text-align: center;
 			line-height: 2;
 		}
-		.btn-signage--div {
-			width: 132px;
-			height: 56px;
-			background-color: #EDBA08;
-			margin: 22px;
-			position: absolute;
-			z-index: 56;
-			top: 12;
-			left: 12;
-		}
+
+.btn-signage--div {
+   border-top: 1px solid #d1b792;
+   background: #ba741f;
+   background: -webkit-gradient(linear, left top, left bottom, from(#e87c2a), to(#ba741f));
+   background: -webkit-linear-gradient(top, #e87c2a, #ba741f);
+   background: -moz-linear-gradient(top, #e87c2a, #ba741f);
+   background: -ms-linear-gradient(top, #e87c2a, #ba741f);
+   background: -o-linear-gradient(top, #e87c2a, #ba741f);
+   padding: 5px 10px;
+   -webkit-border-radius: 8px;
+   -moz-border-radius: 8px;
+   border-radius: 8px;
+   -webkit-box-shadow: rgba(0,0,0,1) 0 1px 0;
+   -moz-box-shadow: rgba(0,0,0,1) 0 1px 0;
+   box-shadow: rgba(0,0,0,1) 0 1px 0;
+   text-shadow: rgba(0,0,0,.4) 0 1px 0;
+   color: white;
+   font-size: 14px;
+   font-family: Georgia, serif;
+   text-decoration: none;
+   vertical-align: middle;
+   }
+.btn-signage--div:hover {
+   border-top-color: #dec02c;
+   background: #dec02c;
+   color: #000000;
+   }
+.btn-signage--div:active {
+   border-top-color: #f2560e;
+   background: #f2560e;
+   }
+
 		body {
 		    background-image: url("chi_capstone_signage.jpg") !important;
 		    background-size: contain !important;
