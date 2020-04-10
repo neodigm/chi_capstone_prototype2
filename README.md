@@ -1,7 +1,6 @@
-[![License: BSD](https://badgen.net/badge/license/BSD/orange)](https://opensource.org/licenses/BSD-3-Clause)
-# chi_capstone_prototype2
+[Interactive Prototype](https://neodigm.github.io/chi_capstone_prototype2/#/screens)
 
-![https://neodigm.github.io/chi_capstone_prototype2/#/screens](https://neodigm.github.io/chi_capstone_prototype2/assets/neodigm.github.io_chi_capstone_prototype2_.png)
+[https://neodigm.github.io/chi_capstone_prototype2/#/screens](https://neodigm.github.io/chi_capstone_prototype2/assets/neodigm.github.io_chi_capstone_prototype2_.png)
 
 [Portfolio](https://www.theScottKrause.com) |
 [Github](https://github.com/neodigm) |
