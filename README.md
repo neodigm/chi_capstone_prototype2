@@ -8,7 +8,7 @@ Made popular by the visionary film Minority Report, individually targeted conten
 #
 ![](https://neodigm.github.io/chi_capstone_prototype2/assets/neodigm.github.io_chi_capstone_prototype2_.png)
 #
-[Portfolio](https://www.theScottKrause.com) |
+[Portfolio Blog](https://www.theScottKrause.com) |
 [Blog](https://www.theScottKrause.com/WebAssembly) |
 [Github](https://github.com/neodigm) |
 [LinkedIn](https://www.linkedin.com/in/neodigm24/) |
