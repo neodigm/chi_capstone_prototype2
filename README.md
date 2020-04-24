@@ -17,4 +17,6 @@ Made popular by the visionary film Minority Report, individually targeted conten
 [Machvive](https://machvive.com/) |
 [Arcanus 55](https://www.arcanus55.com/) |
 [Repl](https://repl.it/@neodigm) |
-[Twitter](https://twitter.com/neodigm24)
+[Twitter](https://twitter.com/neodigm24) |
+[Keybase](https://keybase.io/neodigm)
+#
