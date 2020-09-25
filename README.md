@@ -1,6 +1,6 @@
 [![License: BSD](https://badgen.net/badge/license/BSD/orange)](https://opensource.org/licenses/BSD-3-Clause)
 #
-👁️D3 Parallax Three.js Greensock && WebGL 🍭
+
 
 [Interactive Prototype](https://neodigm.github.io/chi_capstone_prototype2/#/screens)
 #
