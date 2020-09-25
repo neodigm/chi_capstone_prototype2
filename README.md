@@ -1,5 +1,7 @@
 [![License: BSD](https://badgen.net/badge/license/BSD/orange)](https://opensource.org/licenses/BSD-3-Clause)
 #
+👁️D3 Parallax Three.js Greensock && WebGL 🍭
+
 [Interactive Prototype](https://neodigm.github.io/chi_capstone_prototype2/#/screens)
 #
 Imaging a shopper walking past a digital sign that then starts to display items based on her preferences.  This is called triggered content and can add an exciting dimension to commercial signs and kiosks.
