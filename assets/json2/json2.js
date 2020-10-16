@@ -1,5 +1,5 @@
 /*
-    json2.js
+    json2.js | Polyfill
     2012-10-08
 
     Public Domain.
