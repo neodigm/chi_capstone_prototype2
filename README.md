@@ -1,4 +1,4 @@
-Creative ⚡ Business ⚡ Technical Agility
+UX artisan ⚡ illustrator ⚡ front-end engineer
 
 [Interactive Prototype](https://neodigm.github.io/chi_capstone_prototype2/#/screens)
 #
