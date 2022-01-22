@@ -1,4 +1,5 @@
 UX artisan ⚡ illustrator ⚡ front-end engineer
+Infographics UX PWA Typescript Svelte ThreeJS Vue ✨
 
 [Interactive Prototype](https://neodigm.github.io/chi_capstone_prototype2/#/screens)
 #
