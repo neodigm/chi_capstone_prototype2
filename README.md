@@ -1,8 +1,7 @@
 UX artisan ⚡ illustrator ⚡ front-end engineer
 Infographics UX PWA Typescript Svelte ThreeJS Vue ✨
 
-[Interactive Prototype](https://neodigm.github.io/chi_capstone_prototype2/#/screens)
-#
+ #
 Imaging a shopper walking past a digital sign that then starts to display items based on her preferences.  This is called triggered content and can add an exciting dimension to commercial signs and kiosks.
 
 Made popular by the visionary film Minority Report, individually targeted content delivered by public signs is no longer science fiction. Broadcasting personal preferences is not a far stretch from current accepted social media patterns. You would think nothing of sharing color or music preferences via Facebook, why not share with public signage.  My point is that an established behavioral pattern already exists.
@@ -10,7 +9,7 @@ Made popular by the visionary film Minority Report, individually targeted conten
 
 <p align="center">
   <a target="_blank" href="https://neodigm.github.io/chi_capstone_prototype2/#/screens">
-  <img src="https://neodigm.github.io/chi_capstone_prototype2/assets/neodigm.github.io_chi_capstone_prototype2_.png" title="UX / IA Interactive Prototype Three.js 🚀 TypeScript 🚀 WASM ✨ Go">
+  <img src="https://neodigm.github.io/chi_capstone_prototype2/assets/neodigm.github.io_chi_capstone_prototype2_.png" title="UX / IA Interactive Prototype Three.js 🚀 TypeScript 🚀 WASM ✨ Go MCP AI Agents Chat UX PWA 3D ThreeJS Vue ✨ HTMX Rust WASM">
   </a>
 </p>
 
