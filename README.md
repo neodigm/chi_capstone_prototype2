@@ -9,7 +9,7 @@ Made popular by the visionary film Minority Report, individually targeted conten
 
 <p align="center">
   <a target="_blank" href="https://neodigm.github.io/chi_capstone_prototype2/#/screens">
-  <img src="https://neodigm.github.io/chi_capstone_prototype2/assets/neodigm.github.io_chi_capstone_prototype2_.png" title="UX / IA Interactive Prototype Three.js 🚀 TypeScript 🚀 WASM ✨ Go MCP AI Agents Chat UX PWA 3D ThreeJS Vue ✨ HTMX Rust WASM">
+  <img src="https://neodigm.github.io/chi_capstone_prototype2/assets/neodigm.github.io_chi_capstone_prototype2_.png" title="UX / IA Interactive Prototype Three.js  🚀 WASM ✨ Go MCP AI Agents Chat UX PWA 3D ThreeJS Vue ✨ HTMX Rust WASM">
   </a>
 </p>
 
